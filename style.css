@@ -23,3 +23,15 @@ form label, form input {
     display: block;
     width: 100%;
 }
+
+.input-label {
+    padding: 5px;
+    border-radius: 2px;
+    margin-top: 2px;
+    font-size: 16px;
+}
+
+.label-email {
+    margin-top: 10px;
+    font-weight: bold;
+}
